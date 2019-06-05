@@ -1,3 +1,4 @@
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
@@ -7,6 +8,7 @@
 <h1 align="center">
   Gatsby's default starter
 </h1>
+[![Join the chat at https://gitter.im/faeldon/faeldon-website](https://badges.gitter.im/faeldon/faeldon-website.svg)](https://gitter.im/faeldon/faeldon-website?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
@@ -92,6 +94,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 ## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default) [![Join the chat at https://gitter.im/faeldon/faeldon-website](https://badges.gitter.im/faeldon/faeldon-website.svg)](https://gitter.im/faeldon/faeldon-website?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default) 
 
 <!-- AUTO-GENERATED-CONTENT:END -->
