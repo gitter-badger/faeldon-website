@@ -1,0 +1,18 @@
+# Project Dependencies
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+node_modules
+package-lock.json
+
+# Build, CI/CD Output Files
+public
+coverage
+yarn.lock
+
+# Editors
+.idea
+.metals
+
+# Cruft
+.DS_Store
+npm-debug.log
+.cache/
